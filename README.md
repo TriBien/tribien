@@ -1,11 +1,18 @@
 # Tri Bien
 
-**Full-stack engineer with a backend and systems bent.** I build, then take apart. My best work starts with a small, inspectable reimplementation of something I rely on — a DI container, a GC workload, a JavaScript runtime — so I can reason about the real thing from its mechanics instead of its marketing. Then I ship it: production-minded apps, tests, CI, and demos you can actually click.
+I’m a technology leader and hands-on engineer with 10+ years of experience building and improving software systems across many domains. I enjoy combining strong technical expertise with product thinking to turn business challenges into reliable, scalable solutions.
 
-I care about the *why* behind a tool, the trade-offs at the boundary, and the difference between "it works" and "I know why it works."
+I focus on building solid engineering foundations that help businesses grow, from resilient architecture and consistent integrations to measurable performance and sustainable delivery. I believe in making thoughtful technical decisions that balance immediate business needs with long-term quality, while avoiding unnecessary complexity and technical debt.
+
+When it comes to AI, I take a practical and responsible approach, combining critical evaluation, human oversight, and rigorous validation to build solutions people can trust. Ultimately, I aim to help teams make better technical decisions, maintain high engineering standards, and build products that remain reliable and adaptable as the business evolves.
 
 - Email: [bienthanhtri@gmail.com](mailto:bienthanhtri@gmail.com)
-- Portfolio of demos: [library](https://tribien.github.io/library/) · [trimbot](https://tribien.github.io/trimbot/) · [myblogs](https://tribien.github.io/myblogs/)
+- Portfolio of demos: 
+  - [Store management](https://trimpos.ddns.net/)
+  - [Book review](https://tribien.github.io/library/) 
+  - [Writing feedback](https://tribien.github.io/writer/)
+  - [Mindmap](https://tribien.github.io/mindmap/) 
+  - [Goal tracking](https://tribien.github.io/xtracker/)
 
 ---
 
