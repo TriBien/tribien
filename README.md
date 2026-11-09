@@ -13,6 +13,8 @@ When it comes to AI, I take a practical and responsible approach, combining crit
   - [Writing feedback](https://tribien.github.io/writer/)
   - [Mindmap](https://tribien.github.io/mindmap/) 
   - [Goal tracking](https://tribien.github.io/xtracker/)
+  - [Space repetition flip cards](https://tribien.github.io/flip-card/)
+  - [Technical Radar](https://tribien.github.io/tech-radar/)
 
 ---
 
